@@ -1,8 +1,8 @@
-## Stock Price Prediction Using TensorFlow & LSTM
+# Stock Price Prediction Using TensorFlow & LSTM
 
 A deep learning project that predicts stock market closing prices using TensorFlow and LSTM neural networks trained on 5 years of historical Apple stock data.
 
-# Table of Contents
+## Table of Contents
 
 - [Overview](#overview)
 - [Features](#features)
@@ -13,13 +13,13 @@ A deep learning project that predicts stock market closing prices using TensorFl
 - [License](#license)
 - [Contact](#contact)
 
-# Overview
+## Overview
 
 Stock price prediction is one of the most challenging problems in finance, with real-world applications ranging from personal investment strategies to algorithmic trading. This project builds a prediction model using TensorFlow and Long Short-Term Memory (LSTM) networks — a type of Recurrent Neural Network (RNN) that works really well with time series data like stock prices.
 
 The model is trained on 5 years of Apple stock price data and learns from historical patterns to forecast future closing prices.
 
-# Features
+## Features
 
 - Loads and processes real historical stock price data using Pandas
 - Handles malformed data lines during CSV loading
@@ -29,7 +29,7 @@ The model is trained on 5 years of Apple stock price data and learns from histor
 - Visual comparison of Train data, Test data, and Predictions on a chart
 - Forecasts future closing prices based on learned patterns
 
-# Project Structure
+## Project Structure
 ```
 Stock-Price-Prediction/
 │
@@ -40,7 +40,7 @@ Stock-Price-Prediction/
 └── requirements.txt                                       # Dependencies
 ```
 
-# Installation
+## Installation
 
 1. Clone the repository
 ```
@@ -55,7 +55,7 @@ cd Stock-Price-Prediction
 pip install -r requirements.txt
 ```
 
-# Dependencies
+## Dependencies
 
 - Python 3.x
 - TensorFlow
@@ -71,7 +71,7 @@ pip install -r requirements.txt
 The model was trained and tested on Apple stock closing price data collected over a 5-year period. The output chart clearly shows three things — the training data, the test data, and the model's predictions — giving a visual sense of how closely the predicted values follow the actual stock prices.
 
 
-# Contact
+## Contact
 
 GitHub: _Vicky-Vrisni_
 Email: _skvickyadav942@gmail.com_
