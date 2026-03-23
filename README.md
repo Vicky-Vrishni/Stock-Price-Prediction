@@ -73,6 +73,6 @@ The model was trained and tested on Apple stock closing price data collected ove
 
 ## Contact
 
-GitHub: _Vicky-Vrisni_
-Email: _skvickyadav942@gmail.com_
+GitHub: _https://github.com/Vicky-Vrishni_ || 
+Email: _skvickyadav942@gmail.com_ ||
 LinkdIn: _https://www.linkedin.com/feed/_
